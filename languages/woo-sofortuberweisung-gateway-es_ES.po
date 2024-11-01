@@ -1,0 +1,390 @@
+# Translation of Plugins - Sofortueberweisung Gateway for Woocommerce - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Sofortueberweisung Gateway for Woocommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sofortueberweisung Gateway for Woocommerce\n"
+"POT-Creation-Date: 2020-10-25 09:13+0100\n"
+"PO-Revision-Date: 2020-10-25 09:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: mlfactory\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-sofortuberweisung-gateway.php:45
+msgid "VERY IMPORTANT"
+msgstr "MUY IMPORTANTE"
+
+#: woo-sofortuberweisung-gateway.php:47
+msgid ""
+"It was detected that you are using the plugin Germanized for WooCommerce."
+msgstr "Se detectó que estás usando el plugin germanizado para WooCommerce."
+
+#: woo-sofortuberweisung-gateway.php:48
+msgid "You have activated the function \"Disallow cancellations\"."
+msgstr "Ha activado la función \"Anular cancelaciones\"."
+
+#: woo-sofortuberweisung-gateway.php:49
+msgid "This function must be deactivated!"
+msgstr "¡Esta función debe ser desactivada!"
+
+#: woo-sofortuberweisung-gateway.php:50
+msgid ""
+"Follow the link and deactivate the function \"Disallow cancellations\": <a "
+"href=\"admin.php?page=wc-settings&tab=germanized-general&section=checkout"
+"\">Germanized for WooCommerce Setttings</a>"
+msgstr ""
+"Siga el enlace y desactive la función \"Desactivar cancelaciones\": <a href="
+"\"admin.php?page=wc-settings&tab=germanized-general&section=checkout"
+"\">Germanized for WooCommerce Setttings</a>"
+
+#: woo-sofortuberweisung-gateway.php:52
+msgid ""
+"This message disappears automatically as soon as you have made the necessary "
+"settings."
+msgstr ""
+"Este mensaje desaparece automáticamente tan pronto como haya realizado los "
+"ajustes necesarios."
+
+#: woo-sofortuberweisung-gateway.php:68 woo-sofortuberweisung-gateway.php:234
+msgid "Klarna / Sofortüberweisung"
+msgstr "Klarna / Sofortüberweisung"
+
+#: woo-sofortuberweisung-gateway.php:69
+msgid ""
+"Allows Klarna / Sofortüberweisung payments in Woocommerce. Easy, fast and "
+"safe. Orders are marked as \"processing\" when received."
+msgstr ""
+"Permite a Klarna / Sofortüberweisung pagos en Woocommerce. Fácil, rápido y "
+"seguro. Los pedidos se marcan como \"procesados\" cuando se reciben."
+
+#: woo-sofortuberweisung-gateway.php:71
+msgid ""
+"Thanks for using <strong>Sofortüberweisung Gateway</strong>. <br /><br /"
+">Please support our free work by rating this plugin with 5 stars on "
+"WordPress.org. <a href=\"https://wordpress.org/support/plugin/"
+"sofortueberweisung-gateway-woocommerce/reviews/#new-post\" target=\"_blank"
+"\">Click here to rate us.</a><br><br><br>"
+msgstr ""
+"Gracias por usar <strong>Sofortüberweisung Gateway</strong>. <br /><br />Por "
+"favor, apoye nuestro trabajo gratuito calificando este plugin con 5 "
+"estrellas en WordPress.org. <a href=\"https://wordpress.org/support/plugin/"
+"sofortueberweisung-gateway-woocommerce/reviews/#new-post\" target=\"_blank"
+"\">Click here to rate us.</a><br><br><br>"
+
+#: woo-sofortuberweisung-gateway.php:72
+msgid "How to get a API Key:"
+msgstr "Cómo obtener una clave API:"
+
+#: woo-sofortuberweisung-gateway.php:72
+msgid ""
+"<a href=\"https://www.youtube.com/watch?v=NgjtALKCLeg\" target=\"blank"
+"\">YouTube Video Tutorial</a></p>"
+msgstr ""
+"<a href=\"https://www.youtube.com/watch?v=NgjtALKCLeg\" target=\"blank"
+"\">YouTube Video Tutorial</a></p>"
+
+#: woo-sofortuberweisung-gateway.php:73
+msgid "Information:"
+msgstr "Información:"
+
+#: woo-sofortuberweisung-gateway.php:73
+msgid ""
+"This plugin work fine in the free version.<br/> In the PRO version of this "
+"plugin there are many more Features. <a href=\"https://wordpress.org/plugins/"
+"sofortueberweisung-gateway-woocommerce/\"> Check out Features of Pro "
+"Version</a></p>"
+msgstr ""
+"Este plugin funciona bien en la versión gratuita.<br/> En la versión PRO de "
+"este plugin hay muchas más características. <a href=\"https://wordpress.org/"
+"plugins/sofortueberweisung-gateway-woocommerce/\"> Comprueba las "
+"características de la versión Pro</a></p>"
+
+#: woo-sofortuberweisung-gateway.php:74
+msgid "Buy the Pro Version for only €14,99,- incl. Tax."
+msgstr "Compre la versión Pro por sólo 14,99 euros, con impuestos incluidos."
+
+#: woo-sofortuberweisung-gateway.php:75
+msgid "Send me a email michaelleithold18@gmail.com"
+msgstr "Envíame un correo electrónico a michaelleithold18@gmail.com"
+
+#: woo-sofortuberweisung-gateway.php:199
+msgid ""
+"Thank you for your purchase! <br/><br/><u>Details of the payment:</u> <br/>\n"
+"\t\t\t\t\t\t\t\t\t\tService: Klarna / Sofortüberweisung<br/>\n"
+"\t\t\t\t\t\t\t\t\t\tTransaction ID: %transactionID%<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t\t\t\t\tYour order will be processed immediately.<br/>\n"
+"\t\t\t\t\t\t\t\t\t\tYou will receive separately after the shipment of the "
+"goods an e-mail with the tracking number.<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t<br/>\n"
+"\t\t\t\t\t\t\t\t\t\tYour %sitename% Team\t\t\t\n"
+"\t\t\t\t\t\t\t\t"
+msgstr ""
+"¡Gracias por su compra!! <br/><br/><u>Detalles del pago:</u> <br/>\n"
+"\t\t\t\t\t\t\t\t\t\tServicio: Klarna / Sofortüberweisung<br/>\n"
+"\t\t\t\t\t\t\t\t\t\tIdentificación de la transacción: %transactionID%<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t<br />\n"
+"\t\t\t\t\t\t\t\t\t\tSu pedido será procesado inmediatamente.<br/>\n"
+"\t\t\t\t\t\t\t\t\t\tDespués del envío de la mercancía, recibirá por separado "
+"un correo electrónico con el número de seguimiento.<br/>\n"
+"\t\t\t\t\t\t\t\t\t\t<br/>\n"
+"\t\t\t\t\t\t\t\t\t\tSu %sitename% Equipo\t\t\t\n"
+"\t\t\t\t\t\t\t\t"
+
+#: woo-sofortuberweisung-gateway.php:213
+msgid "Enable/Disable Klarna / Sofortüberweisung"
+msgstr "Activar/Desactivar Klarna / Sofortüberweisung"
+
+#: woo-sofortuberweisung-gateway.php:215
+msgid "Enable Klarna / Sofortüberweisung Payment"
+msgstr "Habilitar el pago Klarna / Sofortüberweisung"
+
+#: woo-sofortuberweisung-gateway.php:222
+msgid "Configuration key"
+msgstr "Clave de configuración"
+
+#: woo-sofortuberweisung-gateway.php:224
+msgid ""
+"Get the key from sofort.com. Create a project and click on the \"Migrate to "
+"Gateway\" arrow on the right side of you project on the page \"Project "
+"overview\". Now u see under \"Sofort Gateway\" a Project. Click on that. "
+"Scroll down and you see the \"Configuration key for your shop system\""
+msgstr ""
+"Consigue la llave de sofort.com. Crea un proyecto y haz clic en la flecha "
+"\"Migrar a la puerta de enlace\" en la parte derecha de tu proyecto en la "
+"página \"Visión general del proyecto\". Ahora verás en \"Sofort Gateway\" un "
+"proyecto. Haz clic en eso. Desplácese hacia abajo y verá la \"Clave de "
+"configuración para el sistema de su tienda\""
+
+#: woo-sofortuberweisung-gateway.php:225
+msgid "xxxxxx:xxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+msgstr "xxxxxx:xxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+#: woo-sofortuberweisung-gateway.php:231
+msgid "Title"
+msgstr "Titulo"
+
+#: woo-sofortuberweisung-gateway.php:233
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+"Esto controla el título para el método de pago que el cliente ve durante el "
+"proceso de compra."
+
+#: woo-sofortuberweisung-gateway.php:239
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: woo-sofortuberweisung-gateway.php:241
+msgid "This ist the Privacy Policy Text that displayed on the Checkout."
+msgstr ""
+"Este es el texto de la política de privacidad que se muestra en la caja."
+
+#: woo-sofortuberweisung-gateway.php:242
+msgid ""
+"You can read the privacy policy of Klarna <a href='https://www.klarna.com/"
+"sofort/privacy-policy/' target='_blank' title='Klarna Privacy Policy'>here</"
+"a>."
+msgstr ""
+"Puedes leer la política de privacidad de Klarna <a href='https://www.klarna."
+"com/sofort/privacy-policy/' target='_blank' title='Klarna Privacy "
+"Policy'>aquí</a>."
+
+#: woo-sofortuberweisung-gateway.php:247
+msgid "Description"
+msgstr "Descripción"
+
+#: woo-sofortuberweisung-gateway.php:249
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Descripción de la forma de pago que el cliente verá en su caja."
+
+#: woo-sofortuberweisung-gateway.php:250
+msgid "Safe, easy and direct payment via you bank account."
+msgstr "Pago seguro, fácil y directo a través de su cuenta bancaria."
+
+#: woo-sofortuberweisung-gateway.php:255
+msgid "Custom message on order received page"
+msgstr "Mensaje personalizado en la página de recepción de pedidos"
+
+#: woo-sofortuberweisung-gateway.php:257
+msgid ""
+"Custom Message if order received. Leave it empty if its should not displayed"
+msgstr ""
+"Mensaje personalizado si se recibe la orden. Déjelo vacío si no debe "
+"mostrarse"
+
+#: woo-sofortuberweisung-gateway.php:263
+msgid "Success Payment Email Subject"
+msgstr "Éxito del pago Asunto del correo electrónico"
+
+#: woo-sofortuberweisung-gateway.php:265
+msgid "Subject of Email."
+msgstr "Asunto del correo electrónico."
+
+#: woo-sofortuberweisung-gateway.php:266
+msgid "Payment received"
+msgstr "Pago recibido"
+
+#: woo-sofortuberweisung-gateway.php:271
+msgid "Success Payment Email Text"
+msgstr "Texto del correo electrónico de pago con éxito"
+
+#: woo-sofortuberweisung-gateway.php:273 woo-sofortuberweisung-gateway.php:310
+msgid "Show or hide \"Transaction Time\" on Paymentinfo"
+msgstr "Mostrar u ocultar \"Tiempo de transacción\" en Paymentinfo"
+
+#: woo-sofortuberweisung-gateway.php:276
+msgid ""
+"Message Body Payment Success Email. Variables: %sitename% - %transactionID%"
+msgstr ""
+"Mensaje Cuerpo de pago del cuerpo del correo electrónico de éxito. "
+"Variables: %sitename% - %transactionID%"
+
+#: woo-sofortuberweisung-gateway.php:280
+msgid "Transaction Info"
+msgstr "Información de la transacción"
+
+#: woo-sofortuberweisung-gateway.php:282
+msgid "Show or hide \"Transaction Info\" <b>completely</b> on Paymentinfo"
+msgstr ""
+"Mostrar u ocultar \"Información de la transacción\" <b>completamente</b> en "
+"Paymentinfo"
+
+#: woo-sofortuberweisung-gateway.php:287 woo-sofortuberweisung-gateway.php:685
+msgid "Service"
+msgstr "Servicio"
+
+#: woo-sofortuberweisung-gateway.php:289
+msgid "Show or hide \"Service\" on Paymentinfo"
+msgstr "Mostrar u ocultar \"Servicio\" en Paymentinfo"
+
+#: woo-sofortuberweisung-gateway.php:294 woo-sofortuberweisung-gateway.php:686
+msgid "Order status"
+msgstr "Estado del pedido"
+
+#: woo-sofortuberweisung-gateway.php:296
+msgid "Show or hide \"Order Status\" on Paymentinfo"
+msgstr "Mostrar u ocultar \"Estado del pedido\" en Paymentinfo"
+
+#: woo-sofortuberweisung-gateway.php:301 woo-sofortuberweisung-gateway.php:687
+msgid "Transaction ID"
+msgstr "Identificación de la transacción"
+
+#: woo-sofortuberweisung-gateway.php:303
+msgid "Show or hide \"Transaction ID\" on Paymentinfo"
+msgstr "Mostrar u ocultar \"Transaction ID\" en Paymentinfo"
+
+#: woo-sofortuberweisung-gateway.php:308
+msgid "Transaction Time"
+msgstr "Tiempo de transacción"
+
+#: woo-sofortuberweisung-gateway.php:315
+msgid "Display Policy Text"
+msgstr "Mostrar el texto de la política"
+
+#: woo-sofortuberweisung-gateway.php:317
+msgid "Show or hide the Policy text on Checkout"
+msgstr "Mostrar u ocultar el texto de la política en la caja"
+
+#: woo-sofortuberweisung-gateway.php:321
+msgid "Send Info Email"
+msgstr "Enviar información por correo electrónico"
+
+#: woo-sofortuberweisung-gateway.php:323
+msgid "Disable/Enable sending Email after Payment Success"
+msgstr ""
+"Deshabilitar/Habilitar el envío de correo electrónico después del éxito del "
+"pago"
+
+#: woo-sofortuberweisung-gateway.php:437
+msgid "Order Nr. "
+msgstr "No."
+
+#: woo-sofortuberweisung-gateway.php:453
+msgid "Klarna/Sofort API Error"
+msgstr "Klarna/Error instantáneo de la API"
+
+#: woo-sofortuberweisung-gateway.php:454
+msgid ""
+"An error has occurred while communicating with the API. Please check if the "
+"API Key you entered is correct and valid!"
+msgstr ""
+"Se ha producido un error al comunicarse con la API. Por favor, comprueba si "
+"la clave de la API que has introducido es correcta y válida!"
+
+#: woo-sofortuberweisung-gateway.php:455
+msgid ""
+"If you are not the operator of the online offer, please contact the operator."
+msgstr ""
+"Si usted no es el operador de la oferta en línea, por favor, póngase en "
+"contacto con el operador."
+
+#: woo-sofortuberweisung-gateway.php:456
+msgid "Error Code"
+msgstr "Código de error"
+
+#: woo-sofortuberweisung-gateway.php:457
+msgid "</div>"
+msgstr "</div>"
+
+#: woo-sofortuberweisung-gateway.php:463
+msgid "Awaiting Sofortüberweisung payment"
+msgstr "Esperando el pago (Sofortüberweisung /Klarna)"
+
+#: woo-sofortuberweisung-gateway.php:574 woo-sofortuberweisung-gateway.php:600
+#: woo-sofortuberweisung-gateway.php:620 woo-sofortuberweisung-gateway.php:641
+#, php-format
+msgid " %s"
+msgstr " %s"
+
+#: woo-sofortuberweisung-gateway.php:681
+msgid "Payment status"
+msgstr "Estado del pago"
+
+#: woo-sofortuberweisung-gateway.php:692
+msgid "Start payment now"
+msgstr "Comienza a pagar ahora"
+
+#: woo-sofortuberweisung-gateway.php:692
+msgid "Pay"
+msgstr "Paga"
+
+#: woo-sofortuberweisung-gateway.php:694
+msgid "Transaction time"
+msgstr "Tiempo de transacción"
+
+#~ msgid "<p>Fehlercode: "
+#~ msgstr "<p>Error code: "
+
+#~ msgid ""
+#~ "<p>Sollten Sie nicht der Betreiber des Online Angebots sein wenden Sie "
+#~ "sich bitte an den Betreiber.</p>"
+#~ msgstr ""
+#~ "<p>If you are not the operator of the online offer, please contact the "
+#~ "operator.</p>"
+
+#~ msgid "http://www.mlfactory.de"
+#~ msgstr "http://www.mlfactory.de"
+
+#~ msgid "Michael Leithold"
+#~ msgstr "Michael Leithold"
+
+#~ msgid ""
+#~ "Sofortueberweisung / Klarna Gateway for WooCommerce, easy, fast and safe"
+#~ msgstr ""
+#~ "Sofortüberweisung / Klarna Gateway für WooCommerce - einfach, schnell, "
+#~ "sicher"
+
+#~ msgid "http://www.mlfactory.at/sofortueberweisung-gateway-for-woocommerce"
+#~ msgstr "http://www.mlfactory.at/sofortueberweisung-gateway-for-woocommerce"
+
+#~ msgid "Sofortueberweisung / Klarna Gateway for Woocommerce"
+#~ msgstr "Sofortüberweisung / Klarna Gateway für Woocommerce"
